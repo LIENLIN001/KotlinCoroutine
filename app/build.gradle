@@ -5,6 +5,10 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
 
+//jitpack要求
+apply plugin: 'com.github.dcendents.android-maven'
+group = 'com.github.LIENLIN001'
+
 android {
     compileSdkVersion 28
     defaultConfig {
