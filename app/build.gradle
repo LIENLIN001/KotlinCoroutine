@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 
 //jitpack要求
 apply plugin: 'com.github.dcendents.android-maven'
-group = 'com.github.LIENLIN001'
+group = 'com.github.LIENLIN001'//LIENLIN001 为GitHub用户名
 
 android {
     compileSdkVersion 28
